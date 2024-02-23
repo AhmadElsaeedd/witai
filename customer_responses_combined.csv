@@ -1,0 +1,501 @@
+Customer Response,Intent
+"Hmm, Is there a restocking fee for returns? please.",inquiry
+"Well, Cancel my order, I found a better price elsewhere. right away.",cancel
+"Hmm, I'm going to have to decline, thanks though. right away.",decline
+"Actually, Please, I need to cancel my purchase. asap.",cancel
+"Hmm, I need to use a different payment method. right away.",edit_details
+"In that case, I'm going to have to decline, thanks though. please.",decline
+"I've changed my mind, please cancel my order. right away.",cancel
+"In that case, I've decided to buy it. Thank you! right away.",buy
+"Actually, Okay, I'm ready to make the purchase. whenever you're ready.",buy
+"Okay, I'm ready to make the purchase. whenever you're ready.",buy
+"Well, I've changed my mind, please cancel my order. right away.",cancel
+"In that case, I'm going to have to decline, thanks though. right away.",decline
+"Well, Can I get this in a different size or color?",inquiry
+"In that case, I've changed my mind, please cancel my order. whenever you're ready.",cancel
+Please update my delivery address. right away.,edit_details
+"Okay, I'm ready to make the purchase. right away.",buy
+"In that case, What are the care instructions for this hoodie? please.",inquiry
+"Hmm, Sure, I'll take it with the discount. right away.",buy
+"Hmm, I'm going to have to decline, thanks though.",decline
+"In that case, Sure, I'll take it with the discount. whenever you're ready.",buy
+"Actually, No, I'm not interested anymore. please.",decline
+"In that case, I don't think this is what I want right now. right away.",decline
+"Actually, I've decided against buying it. please.",decline
+"Well, Is there a restocking fee for returns? please.",inquiry
+"Well, I've decided against buying it. please.",decline
+"Actually, Please update my delivery address.",edit_details
+Can I get this in a different size or color?,inquiry
+Can you tell me more about the material? please.,inquiry
+"In that case, Please, I need to cancel my purchase. right away.",cancel
+"Well, No, I'm not interested anymore.",decline
+"Alright, you've got a deal. Let's proceed.",buy
+"Hmm, Cancel my order, I found a better price elsewhere. whenever you're ready.",cancel
+"Change my billing details, please. asap.",edit_details
+"Hmm, Can I change the shipping address to my office?",edit_details
+"I don't want this anymore, cancel it. please.",cancel
+"Well, What are the care instructions for this hoodie? right away.",inquiry
+"Well, Thanks, but I'll pass on the offer.",decline
+"Hmm, Can I change the shipping address to my office? asap.",edit_details
+"In that case, Please update my delivery address.",edit_details
+I need to use a different payment method. right away.,edit_details
+"In that case, I'm not interested anymore, cancel the order. whenever you're ready.",cancel
+"Well, Cancel my order, I found a better price elsewhere.",cancel
+"In that case, Cancel my order, I found a better price elsewhere. whenever you're ready.",cancel
+What are the care instructions for this hoodie? whenever you're ready.,inquiry
+"Actually, I'm going to have to decline, thanks though. asap.",decline
+"In that case, Cancel my order, I found a better price elsewhere.",cancel
+"Actually, I've decided against buying it. whenever you're ready.",decline
+"In that case, Please, I need to cancel my purchase. asap.",cancel
+"Well, Please, I need to cancel my purchase. please.",cancel
+"Hmm, Sure, I'll take it with the discount.",buy
+"Well, Can you tell me more about the material?",inquiry
+"Actually, Please update my delivery address. whenever you're ready.",edit_details
+"In that case, I don't think this is what I want right now.",decline
+"I don't want this anymore, cancel it. asap.",cancel
+"Hmm, Can I get this in a different size or color? right away.",inquiry
+"Well, How long is the warranty for this product? asap.",inquiry
+"In that case, I've changed my mind, please cancel my order. whenever you're ready.",cancel
+"Actually, Sure, I'll take it with the discount. please.",buy
+"Actually, I don't think this is what I want right now. asap.",decline
+"Well, How long is the warranty for this product? asap.",inquiry
+"Well, Please update my delivery address. please.",edit_details
+"In that case, Can I get this in a different size or color? asap.",inquiry
+"Well, I'm going to have to decline, thanks though. right away.",decline
+Can you tell me more about the material? asap.,inquiry
+"Actually, How long is the warranty for this product? asap.",inquiry
+"Well, How long is the warranty for this product? please.",inquiry
+"In that case, I've decided to buy it. Thank you! please.",buy
+"Hmm, Is there a restocking fee for returns?",inquiry
+I need to use a different payment method. asap.,edit_details
+"Actually, What are the care instructions for this hoodie? asap.",inquiry
+"Actually, I've changed my mind, please cancel my order. asap.",cancel
+"Actually, I've decided to buy it. Thank you! asap.",buy
+"Well, Sure, I'll take it with the discount. please.",buy
+"Well, Yes, please process my order. asap.",buy
+"In that case, I don't want this anymore, cancel it. whenever you're ready.",cancel
+"Well, Yes, please process my order. whenever you're ready.",buy
+"Actually, I need to use a different payment method. whenever you're ready.",edit_details
+"In that case, I'm not interested anymore, cancel the order. right away.",cancel
+"Hmm, I'm going to have to decline, thanks though. please.",decline
+"In that case, I've decided to buy it. Thank you! please.",buy
+"Hmm, I want to switch to another credit card. asap.",edit_details
+"Well, Can you tell me more about the material? right away.",inquiry
+"Well, What are the care instructions for this hoodie? please.",inquiry
+"Yes, please process my order. right away.",buy
+"Well, How long is the warranty for this product? asap.",inquiry
+"Alright, you've got a deal. Let's proceed.",buy
+"Actually, Can I get this in a different size or color? asap.",inquiry
+"Actually, Change my billing details, please.",edit_details
+"Actually, I don't want this anymore, cancel it. right away.",cancel
+"Actually, I want to switch to another credit card. asap.",edit_details
+"In that case, What are the care instructions for this hoodie? asap.",inquiry
+"I'm not interested anymore, cancel the order. right away.",cancel
+"In that case, No, I'm not interested anymore. right away.",decline
+"Well, I've changed my mind, please cancel my order. whenever you're ready.",cancel
+"Actually, I don't want this anymore, cancel it. right away.",cancel
+"Actually, Yes, please process my order.",buy
+"In that case, Thanks, but I'll pass on the offer. please.",decline
+"Well, Alright, you've got a deal. Let's proceed. asap.",buy
+"In that case, Please, I need to cancel my purchase. asap.",cancel
+"Well, What are the care instructions for this hoodie? whenever you're ready.",inquiry
+"In that case, Alright, you've got a deal. Let's proceed. asap.",buy
+"Actually, I've changed my mind, please cancel my order.",cancel
+"Hmm, No, I'm not interested anymore. asap.",decline
+"Actually, Please update my delivery address. please.",edit_details
+"Actually, What are the care instructions for this hoodie? asap.",inquiry
+"Actually, Please update my delivery address. whenever you're ready.",edit_details
+"Actually, Okay, I'm ready to make the purchase. asap.",buy
+"Actually, No, I'm not interested anymore.",decline
+How long is the warranty for this product? right away.,inquiry
+"In that case, Sure, I'll take it with the discount. please.",buy
+"Actually, I've changed my mind, please cancel my order. right away.",cancel
+"Actually, Change my billing details, please.",edit_details
+"In that case, How long is the warranty for this product? please.",inquiry
+"In that case, Alright, you've got a deal. Let's proceed. right away.",buy
+"Change my billing details, please. please.",edit_details
+"Actually, Change my billing details, please. asap.",edit_details
+"In that case, I need to use a different payment method. right away.",edit_details
+"Hmm, Alright, you've got a deal. Let's proceed. whenever you're ready.",buy
+"Well, I'm not interested anymore, cancel the order.",cancel
+"Hmm, Sure, I'll take it with the discount. whenever you're ready.",buy
+I want to switch to another credit card.,edit_details
+"Hmm, Thanks, but I'll pass on the offer. whenever you're ready.",decline
+"Well, I've decided to buy it. Thank you! please.",buy
+"Yes, please process my order. asap.",buy
+"In that case, How long is the warranty for this product? asap.",inquiry
+"Actually, I need to use a different payment method.",edit_details
+I need to use a different payment method. asap.,edit_details
+"Hmm, I've decided against buying it. right away.",decline
+"Hmm, Can I get this in a different size or color? whenever you're ready.",inquiry
+"Hmm, I'm going to have to decline, thanks though. right away.",decline
+"In that case, Okay, I'm ready to make the purchase. asap.",buy
+"In that case, I've changed my mind, please cancel my order. please.",cancel
+"Actually, I want to switch to another credit card. please.",edit_details
+"Well, Cancel my order, I found a better price elsewhere. whenever you're ready.",cancel
+"Hmm, I've decided against buying it. right away.",decline
+"Hmm, Okay, I'm ready to make the purchase. please.",buy
+"In that case, I'm going to have to decline, thanks though. right away.",decline
+"Hmm, I'm not interested anymore, cancel the order. whenever you're ready.",cancel
+"In that case, Can I change the shipping address to my office?",edit_details
+"Well, I've changed my mind, please cancel my order. whenever you're ready.",cancel
+"In that case, I don't want this anymore, cancel it. asap.",cancel
+"In that case, I don't want this anymore, cancel it. asap.",cancel
+"Hmm, Please, I need to cancel my purchase. right away.",cancel
+"In that case, Thanks, but I'll pass on the offer. please.",decline
+"Hmm, I've changed my mind, please cancel my order. asap.",cancel
+"Well, Can you tell me more about the material?",inquiry
+"Actually, Can I change the shipping address to my office?",edit_details
+Can I get this in a different size or color? whenever you're ready.,inquiry
+"No, I'm not interested anymore. please.",decline
+Can I change the shipping address to my office? asap.,edit_details
+"In that case, Alright, you've got a deal. Let's proceed. asap.",buy
+"Actually, Alright, you've got a deal. Let's proceed. whenever you're ready.",buy
+"Well, Okay, I'm ready to make the purchase. asap.",buy
+"Actually, No, I'm not interested anymore.",decline
+"Actually, Please update my delivery address.",edit_details
+"Well, Can I get this in a different size or color?",inquiry
+I've decided to buy it. Thank you!,buy
+"No, I'm not interested anymore. right away.",decline
+"I'm going to have to decline, thanks though. right away.",decline
+"Actually, Can I get this in a different size or color? whenever you're ready.",inquiry
+"Well, I need to use a different payment method. right away.",edit_details
+"Actually, I need to use a different payment method.",edit_details
+"In that case, Thanks, but I'll pass on the offer.",decline
+"In that case, I want to switch to another credit card. whenever you're ready.",edit_details
+"Hmm, I don't want this anymore, cancel it. right away.",cancel
+"Hmm, Alright, you've got a deal. Let's proceed. please.",buy
+"In that case, I don't think this is what I want right now. asap.",decline
+"Hmm, Is there a restocking fee for returns? right away.",inquiry
+"I'm not interested anymore, cancel the order.",cancel
+"In that case, Okay, I'm ready to make the purchase. whenever you're ready.",buy
+"Hmm, I've changed my mind, please cancel my order.",cancel
+"Cancel my order, I found a better price elsewhere. asap.",cancel
+"Well, Is there a restocking fee for returns? please.",inquiry
+"Actually, Okay, I'm ready to make the purchase.",buy
+"In that case, I'm not interested anymore, cancel the order. whenever you're ready.",cancel
+"In that case, I need to use a different payment method. whenever you're ready.",edit_details
+I need to use a different payment method. please.,edit_details
+Can I change the shipping address to my office?,edit_details
+"Hmm, I'm not interested anymore, cancel the order.",cancel
+"Hmm, What are the care instructions for this hoodie? right away.",inquiry
+"In that case, Alright, you've got a deal. Let's proceed. asap.",buy
+"In that case, I've changed my mind, please cancel my order. asap.",cancel
+"Yes, please process my order. asap.",buy
+"Hmm, Is there a restocking fee for returns? please.",inquiry
+"Well, I need to use a different payment method.",edit_details
+What are the care instructions for this hoodie? whenever you're ready.,inquiry
+"Hmm, Yes, please process my order. please.",buy
+Can I change the shipping address to my office? whenever you're ready.,edit_details
+"Hmm, Please, I need to cancel my purchase. please.",cancel
+"Hmm, Please update my delivery address. please.",edit_details
+"Actually, Can you tell me more about the material? please.",inquiry
+"Actually, I'm not interested anymore, cancel the order. asap.",cancel
+"In that case, I need to use a different payment method.",edit_details
+"In that case, Thanks, but I'll pass on the offer. please.",decline
+"Actually, I want to switch to another credit card. whenever you're ready.",edit_details
+"In that case, I've decided against buying it. please.",decline
+"In that case, Cancel my order, I found a better price elsewhere. right away.",cancel
+"Alright, you've got a deal. Let's proceed.",buy
+I want to switch to another credit card. right away.,edit_details
+"In that case, I've decided against buying it. whenever you're ready.",decline
+"In that case, I've decided to buy it. Thank you! right away.",buy
+"Actually, I've decided to buy it. Thank you! asap.",buy
+"Thanks, but I'll pass on the offer. please.",decline
+"Well, How long is the warranty for this product? asap.",inquiry
+"In that case, Yes, please process my order. please.",buy
+"Well, Can I get this in a different size or color? asap.",inquiry
+"In that case, I need to use a different payment method. asap.",edit_details
+"Well, Cancel my order, I found a better price elsewhere.",cancel
+"Actually, I don't think this is what I want right now. whenever you're ready.",decline
+"Well, Can I get this in a different size or color? whenever you're ready.",inquiry
+"In that case, I've decided to buy it. Thank you! please.",buy
+"Actually, I've decided to buy it. Thank you! please.",buy
+"I don't want this anymore, cancel it. asap.",cancel
+"Hmm, Thanks, but I'll pass on the offer. right away.",decline
+"In that case, Yes, please process my order.",buy
+"In that case, Can you tell me more about the material?",inquiry
+"Actually, Sure, I'll take it with the discount. right away.",buy
+"I'm going to have to decline, thanks though. please.",decline
+"Actually, Can you tell me more about the material?",inquiry
+"I've changed my mind, please cancel my order. right away.",cancel
+"Actually, Can you tell me more about the material? whenever you're ready.",inquiry
+"In that case, I don't think this is what I want right now. right away.",decline
+"Hmm, How long is the warranty for this product? right away.",inquiry
+"Well, Can I get this in a different size or color? right away.",inquiry
+"In that case, I've decided to buy it. Thank you! asap.",buy
+"Hmm, Please update my delivery address.",edit_details
+"Well, I don't think this is what I want right now. please.",decline
+"Actually, Can you tell me more about the material? asap.",inquiry
+"Well, Please, I need to cancel my purchase. right away.",cancel
+"In that case, What are the care instructions for this hoodie? right away.",inquiry
+How long is the warranty for this product? right away.,inquiry
+"Actually, Please, I need to cancel my purchase. asap.",cancel
+"Actually, Alright, you've got a deal. Let's proceed. asap.",buy
+"Actually, I don't want this anymore, cancel it. asap.",cancel
+Is there a restocking fee for returns? whenever you're ready.,inquiry
+"Actually, Sure, I'll take it with the discount. right away.",buy
+"Hmm, Please, I need to cancel my purchase. asap.",cancel
+"Hmm, Change my billing details, please.",edit_details
+"No, I'm not interested anymore.",decline
+"Well, Thanks, but I'll pass on the offer. right away.",decline
+Is there a restocking fee for returns?,inquiry
+"Well, Change my billing details, please. asap.",edit_details
+"Please, I need to cancel my purchase. please.",cancel
+"Actually, Can you tell me more about the material?",inquiry
+"Hmm, Is there a restocking fee for returns? asap.",inquiry
+"Actually, Can I get this in a different size or color? please.",inquiry
+"Yes, please process my order. asap.",buy
+"Actually, Change my billing details, please.",edit_details
+Please update my delivery address.,edit_details
+"Well, Thanks, but I'll pass on the offer. asap.",decline
+I've decided to buy it. Thank you! right away.,buy
+"In that case, Okay, I'm ready to make the purchase. whenever you're ready.",buy
+"Hmm, Is there a restocking fee for returns?",inquiry
+"Actually, Yes, please process my order. right away.",buy
+"Hmm, Thanks, but I'll pass on the offer. whenever you're ready.",decline
+"Hmm, I'm going to have to decline, thanks though. please.",decline
+I've decided against buying it. right away.,decline
+"I'm not interested anymore, cancel the order. whenever you're ready.",cancel
+"Well, I want to switch to another credit card.",edit_details
+"In that case, Change my billing details, please. right away.",edit_details
+"Yes, please process my order. whenever you're ready.",buy
+"In that case, Cancel my order, I found a better price elsewhere. asap.",cancel
+"Actually, I want to switch to another credit card. please.",edit_details
+"In that case, I've decided to buy it. Thank you! please.",buy
+"Hmm, I need to use a different payment method.",edit_details
+"In that case, Is there a restocking fee for returns? please.",inquiry
+"Well, Cancel my order, I found a better price elsewhere. whenever you're ready.",cancel
+"Actually, I don't want this anymore, cancel it. please.",cancel
+"Yes, please process my order. whenever you're ready.",buy
+"In that case, Is there a restocking fee for returns? right away.",inquiry
+"Well, I've changed my mind, please cancel my order. right away.",cancel
+Please update my delivery address. right away.,edit_details
+"I'm going to have to decline, thanks though. right away.",decline
+"In that case, Can I change the shipping address to my office? whenever you're ready.",edit_details
+"Well, Sure, I'll take it with the discount. asap.",buy
+"Well, Can you tell me more about the material?",inquiry
+"Actually, I don't want this anymore, cancel it. please.",cancel
+"Well, Yes, please process my order. please.",buy
+Is there a restocking fee for returns? whenever you're ready.,inquiry
+"In that case, Alright, you've got a deal. Let's proceed. right away.",buy
+"Well, I don't think this is what I want right now. right away.",decline
+"Well, Can I change the shipping address to my office? right away.",edit_details
+"In that case, I'm going to have to decline, thanks though. whenever you're ready.",decline
+"Well, I don't think this is what I want right now. whenever you're ready.",decline
+"Well, Can I get this in a different size or color? please.",inquiry
+"Well, Please update my delivery address. right away.",edit_details
+"Well, Thanks, but I'll pass on the offer. right away.",decline
+"Hmm, I've decided against buying it.",decline
+"In that case, I've changed my mind, please cancel my order. asap.",cancel
+"Well, I don't think this is what I want right now.",decline
+"In that case, Can I change the shipping address to my office? whenever you're ready.",edit_details
+"Well, Can you tell me more about the material?",inquiry
+"Actually, What are the care instructions for this hoodie? asap.",inquiry
+"Hmm, I need to use a different payment method. asap.",edit_details
+"Hmm, Is there a restocking fee for returns?",inquiry
+"Actually, Change my billing details, please. asap.",edit_details
+"In that case, I've decided to buy it. Thank you! please.",buy
+"Well, I need to use a different payment method. right away.",edit_details
+"Well, I don't think this is what I want right now.",decline
+"Actually, I'm not interested anymore, cancel the order. please.",cancel
+"Well, Can you tell me more about the material? right away.",inquiry
+"In that case, I'm going to have to decline, thanks though. whenever you're ready.",decline
+"Well, Can I change the shipping address to my office? whenever you're ready.",edit_details
+"In that case, I've decided against buying it. whenever you're ready.",decline
+"Hmm, Yes, please process my order. please.",buy
+"Actually, Yes, please process my order. whenever you're ready.",buy
+"In that case, Can I get this in a different size or color? please.",inquiry
+"Hmm, Thanks, but I'll pass on the offer.",decline
+"In that case, I'm not interested anymore, cancel the order.",cancel
+"Hmm, Is there a restocking fee for returns? whenever you're ready.",inquiry
+"Actually, I need to use a different payment method. whenever you're ready.",edit_details
+"Well, I don't think this is what I want right now. right away.",decline
+"Sure, I'll take it with the discount. please.",buy
+"Well, I've decided against buying it. whenever you're ready.",decline
+"Hmm, Please update my delivery address. whenever you're ready.",edit_details
+"Actually, Sure, I'll take it with the discount.",buy
+"Well, Cancel my order, I found a better price elsewhere. right away.",cancel
+"Actually, Can you tell me more about the material? please.",inquiry
+"Change my billing details, please.",edit_details
+"In that case, I want to switch to another credit card. please.",edit_details
+"Hmm, No, I'm not interested anymore.",decline
+"Hmm, Is there a restocking fee for returns? whenever you're ready.",inquiry
+"Actually, Cancel my order, I found a better price elsewhere. asap.",cancel
+"In that case, Can I change the shipping address to my office? right away.",edit_details
+"In that case, I've decided against buying it. whenever you're ready.",decline
+"Actually, I need to use a different payment method.",edit_details
+"Hmm, Please update my delivery address. right away.",edit_details
+I've decided to buy it. Thank you! asap.,buy
+"Actually, How long is the warranty for this product? asap.",inquiry
+"Actually, Please update my delivery address.",edit_details
+"Actually, I've decided against buying it.",decline
+"In that case, How long is the warranty for this product?",inquiry
+I've decided against buying it. right away.,decline
+"Cancel my order, I found a better price elsewhere.",cancel
+"I don't want this anymore, cancel it. whenever you're ready.",cancel
+"Hmm, I want to switch to another credit card.",edit_details
+"Well, Sure, I'll take it with the discount. whenever you're ready.",buy
+"Actually, Sure, I'll take it with the discount.",buy
+"Actually, Thanks, but I'll pass on the offer.",decline
+What are the care instructions for this hoodie? please.,inquiry
+"Well, I've changed my mind, please cancel my order.",cancel
+I've decided to buy it. Thank you! please.,buy
+Can I change the shipping address to my office?,edit_details
+"Well, Can I get this in a different size or color?",inquiry
+"Alright, you've got a deal. Let's proceed. right away.",buy
+"Well, Can I change the shipping address to my office? right away.",edit_details
+"Actually, I'm not interested anymore, cancel the order. please.",cancel
+"In that case, I'm not interested anymore, cancel the order. asap.",cancel
+"Hmm, Change my billing details, please.",edit_details
+"Well, I want to switch to another credit card. asap.",edit_details
+"Hmm, Sure, I'll take it with the discount. asap.",buy
+"Well, No, I'm not interested anymore. whenever you're ready.",decline
+"Thanks, but I'll pass on the offer.",decline
+"In that case, Sure, I'll take it with the discount.",buy
+"Hmm, Alright, you've got a deal. Let's proceed. whenever you're ready.",buy
+"Actually, Can I get this in a different size or color? right away.",inquiry
+"Well, Sure, I'll take it with the discount. right away.",buy
+"Well, I'm not interested anymore, cancel the order.",cancel
+"Well, Sure, I'll take it with the discount.",buy
+"Change my billing details, please.",edit_details
+"Hmm, I want to switch to another credit card. right away.",edit_details
+"Please, I need to cancel my purchase. please.",cancel
+"Hmm, Cancel my order, I found a better price elsewhere. whenever you're ready.",cancel
+"In that case, Please, I need to cancel my purchase. please.",cancel
+"In that case, Thanks, but I'll pass on the offer. asap.",decline
+"Hmm, Is there a restocking fee for returns? whenever you're ready.",inquiry
+"Hmm, Thanks, but I'll pass on the offer. asap.",decline
+"Hmm, Please, I need to cancel my purchase. whenever you're ready.",cancel
+I've decided to buy it. Thank you! please.,buy
+"Well, Please, I need to cancel my purchase. please.",cancel
+"No, I'm not interested anymore. please.",decline
+"In that case, No, I'm not interested anymore. please.",decline
+"I've changed my mind, please cancel my order.",cancel
+"Well, Alright, you've got a deal. Let's proceed. whenever you're ready.",buy
+"Okay, I'm ready to make the purchase.",buy
+"Hmm, Please, I need to cancel my purchase. asap.",cancel
+"Well, Cancel my order, I found a better price elsewhere.",cancel
+"Actually, Change my billing details, please. right away.",edit_details
+"Well, I want to switch to another credit card.",edit_details
+"Hmm, I want to switch to another credit card. right away.",edit_details
+"Well, I've decided against buying it.",decline
+"Hmm, I don't want this anymore, cancel it.",cancel
+"In that case, What are the care instructions for this hoodie? asap.",inquiry
+"In that case, Thanks, but I'll pass on the offer. asap.",decline
+"Well, I've changed my mind, please cancel my order. please.",cancel
+"Hmm, How long is the warranty for this product? whenever you're ready.",inquiry
+"Well, How long is the warranty for this product? asap.",inquiry
+"Well, I've decided against buying it. asap.",decline
+"Actually, What are the care instructions for this hoodie? right away.",inquiry
+"Okay, I'm ready to make the purchase. whenever you're ready.",buy
+"Hmm, Okay, I'm ready to make the purchase. right away.",buy
+"Well, Is there a restocking fee for returns?",inquiry
+"Hmm, Change my billing details, please. asap.",edit_details
+"No, I'm not interested anymore. asap.",decline
+"Actually, Alright, you've got a deal. Let's proceed. right away.",buy
+"Hmm, Okay, I'm ready to make the purchase. right away.",buy
+"Well, I've decided against buying it.",decline
+"Well, Can I change the shipping address to my office? asap.",edit_details
+"In that case, Can I change the shipping address to my office? asap.",edit_details
+"In that case, I want to switch to another credit card. right away.",edit_details
+Please update my delivery address. whenever you're ready.,edit_details
+"Well, I've decided to buy it. Thank you! whenever you're ready.",buy
+"Actually, I want to switch to another credit card. asap.",edit_details
+"Actually, I want to switch to another credit card. whenever you're ready.",edit_details
+"Actually, I've decided to buy it. Thank you! please.",buy
+"Actually, I'm going to have to decline, thanks though.",decline
+I don't think this is what I want right now.,decline
+"In that case, I don't think this is what I want right now. asap.",decline
+"Well, Yes, please process my order. whenever you're ready.",buy
+"Actually, Okay, I'm ready to make the purchase. right away.",buy
+"Hmm, Is there a restocking fee for returns? right away.",inquiry
+"In that case, No, I'm not interested anymore. whenever you're ready.",decline
+"Hmm, Change my billing details, please. right away.",edit_details
+"In that case, Change my billing details, please. whenever you're ready.",edit_details
+"Hmm, How long is the warranty for this product? whenever you're ready.",inquiry
+"Actually, Please update my delivery address. asap.",edit_details
+"Thanks, but I'll pass on the offer.",decline
+"Well, I've decided against buying it. right away.",decline
+I've decided to buy it. Thank you! asap.,buy
+What are the care instructions for this hoodie? please.,inquiry
+"I've changed my mind, please cancel my order. right away.",cancel
+"Please, I need to cancel my purchase.",cancel
+"In that case, I'm going to have to decline, thanks though. please.",decline
+"No, I'm not interested anymore. asap.",decline
+"Actually, How long is the warranty for this product? please.",inquiry
+"Hmm, Sure, I'll take it with the discount. asap.",buy
+"Hmm, Okay, I'm ready to make the purchase. right away.",buy
+I don't think this is what I want right now. asap.,decline
+Can I get this in a different size or color?,inquiry
+"Hmm, I don't want this anymore, cancel it. whenever you're ready.",cancel
+"Well, Please, I need to cancel my purchase. whenever you're ready.",cancel
+"Well, Okay, I'm ready to make the purchase.",buy
+"Well, I've decided against buying it. asap.",decline
+I've decided against buying it. whenever you're ready.,decline
+"Hmm, How long is the warranty for this product? asap.",inquiry
+"Actually, No, I'm not interested anymore. asap.",decline
+"In that case, I'm not interested anymore, cancel the order. whenever you're ready.",cancel
+"Actually, Okay, I'm ready to make the purchase. right away.",buy
+"Yes, please process my order. please.",buy
+"Hmm, Can you tell me more about the material? asap.",inquiry
+"Please, I need to cancel my purchase.",cancel
+"In that case, Can I change the shipping address to my office? asap.",edit_details
+"Actually, What are the care instructions for this hoodie? right away.",inquiry
+"I don't want this anymore, cancel it. asap.",cancel
+"Well, I don't think this is what I want right now. right away.",decline
+"Cancel my order, I found a better price elsewhere. whenever you're ready.",cancel
+"Well, No, I'm not interested anymore.",decline
+I don't think this is what I want right now. whenever you're ready.,decline
+"Hmm, Okay, I'm ready to make the purchase. right away.",buy
+"Alright, you've got a deal. Let's proceed. right away.",buy
+I don't think this is what I want right now. please.,decline
+"Actually, How long is the warranty for this product? right away.",inquiry
+"Hmm, Can you tell me more about the material? right away.",inquiry
+"Hmm, Change my billing details, please. please.",edit_details
+"Well, Cancel my order, I found a better price elsewhere. please.",cancel
+"I'm not interested anymore, cancel the order. please.",cancel
+Can I change the shipping address to my office? whenever you're ready.,edit_details
+"In that case, Thanks, but I'll pass on the offer. right away.",decline
+What are the care instructions for this hoodie?,inquiry
+I want to switch to another credit card. right away.,edit_details
+"Well, No, I'm not interested anymore. right away.",decline
+"Hmm, I don't think this is what I want right now. right away.",decline
+"I don't want this anymore, cancel it.",cancel
+"I'm going to have to decline, thanks though. asap.",decline
+"Actually, Okay, I'm ready to make the purchase. whenever you're ready.",buy
+"Actually, Cancel my order, I found a better price elsewhere. whenever you're ready.",cancel
+"Hmm, I'm not interested anymore, cancel the order.",cancel
+"Actually, Please, I need to cancel my purchase. please.",cancel
+"Hmm, I'm going to have to decline, thanks though. right away.",decline
+Can I get this in a different size or color? asap.,inquiry
+"Hmm, Alright, you've got a deal. Let's proceed. please.",buy
+"Hmm, Yes, please process my order. right away.",buy
+"In that case, I'm not interested anymore, cancel the order.",cancel
+"Well, Can I change the shipping address to my office? right away.",edit_details
+"I'm not interested anymore, cancel the order. asap.",cancel
+"Well, How long is the warranty for this product?",inquiry
+"Well, I don't want this anymore, cancel it. right away.",cancel
+"Change my billing details, please. asap.",edit_details
+"Hmm, Alright, you've got a deal. Let's proceed. asap.",buy
+"Yes, please process my order. right away.",buy
+"Hmm, Please update my delivery address.",edit_details
+"Well, Can you tell me more about the material? please.",inquiry
+"In that case, Can I get this in a different size or color? asap.",inquiry
+"Hmm, What are the care instructions for this hoodie?",inquiry
+"Well, Is there a restocking fee for returns? please.",inquiry
+"Hmm, No, I'm not interested anymore. asap.",decline
+"In that case, Cancel my order, I found a better price elsewhere. please.",cancel
+"Well, I don't think this is what I want right now. please.",decline
+"Hmm, Can you tell me more about the material? right away.",inquiry
+"I don't want this anymore, cancel it. right away.",cancel
+"In that case, I need to use a different payment method. asap.",edit_details
+"Actually, What are the care instructions for this hoodie? whenever you're ready.",inquiry
+"In that case, Please update my delivery address. asap.",edit_details
+"Actually, Change my billing details, please. please.",edit_details
+"Well, Sure, I'll take it with the discount. whenever you're ready.",buy
+"In that case, Can you tell me more about the material? whenever you're ready.",inquiry
+"Well, I'm going to have to decline, thanks though.",decline
+"Well, I want to switch to another credit card. asap.",edit_details
+"I don't want this anymore, cancel it. whenever you're ready.",cancel
+"Hmm, Can I change the shipping address to my office? asap.",edit_details
