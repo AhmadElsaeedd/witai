@@ -1,0 +1,26 @@
+Intent,Customer Text
+buy,"Let's go ahead with the purchase, I'm excited to receive it!"
+buy,"I've made up my mind, let's finalize the order."
+buy,"I'm ready to buy now, what's the next step?"
+buy,"I want to proceed with buying this item, thank you."
+buy,"I've decided, please complete my purchase."
+cancel,"I need to stop my order, please cancel it immediately."
+cancel,"Please halt the order process, I won't be needing it."
+cancel,"I've reconsidered, please cancel my order now."
+cancel,"Cancel my current order, I have to rethink my decision."
+cancel,"I won't be going through with the purchase, cancel it please."
+decline,"I appreciate the offer, but I'm going to decline."
+decline,"After some thought, I've decided to not go ahead."
+decline,I'm not ready to make a purchase at this moment.
+decline,"Thanks for the info, but I'll have to say no."
+decline,"It's a nice product, but I'm not buying today."
+edit_details,"I just moved, can we update my shipping information?"
+edit_details,"I need to correct my order details, who do I speak to?"
+edit_details,"There's a mistake with my payment info, can we fix it?"
+edit_details,Please update my contact details for the order.
+edit_details,"I've got a new credit card, let's update my payment method."
+inquiry,Could you provide more info on the product specs?
+inquiry,"I'm curious about shipping times, can you elaborate?"
+inquiry,Do you offer any warranties or return policies?
+inquiry,What are the care instructions for this item?
+inquiry,Can you tell me more about your customer service policies?
